@@ -318,7 +318,7 @@ section.success {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #{{ site.color.primary }};
+    color: #70AEBE;
 }
 
 form .row:first-child .floating-label-form-group {

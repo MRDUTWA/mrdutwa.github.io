@@ -5,6 +5,6 @@ img: shop.png
 alt: image-alt
 client: Goldwagen
 category: Shop branding
-description: This Bilstein concept shop design was done for Goldwagen. Over the last few years I have done artwork for over 70 <a href="http://www.goldwagen.com/index.php/en/">Goldwagen stores</a>.
+description: This Bilstein concept shop design was done for Goldwagen. Over the last few years I have done artwork for over 70 <a href="http://www.goldwagen.com/index.php/en/" target="_blank">Goldwagen stores</a>.
 
 ---

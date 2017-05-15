@@ -3,7 +3,6 @@ layout: default
 modal-id: 6
 img: ci.png
 alt: image-alt
-project-date: April 2014
 client: Perpetuel Investment Group
 category: Corporate Identity Development
 description: This projects was conceptualised and completed for the Perpetuel Investment Group. The client needed a full corporate identity for their investment company

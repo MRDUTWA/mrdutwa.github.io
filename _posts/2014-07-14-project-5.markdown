@@ -5,6 +5,6 @@ img: poster.png
 alt: image-alt
 client: Lynnwood Cyclery
 category: Poster Design
-description: Above is just one example of the designs done for Lynnwood cyclery I also designed the shpfitting artwork for the high-end <a href="http://www.lynnwoodcyclery.co.za/">cycling shop</a>.
+description: Above is just one example of the designs done for Lynnwood cyclery I also designed the shopfitting artwork for the high-end <a href="http://www.lynnwoodcyclery.co.za/" target="_blank">cycling shop</a>.
 
 ---

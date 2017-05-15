@@ -269,6 +269,25 @@ section.success {
     background: #fff;
 }
 
+<!-- button 2 -->
+.btn2-outline {
+    margin-top: 15px;
+    border: solid 2px #fff;
+    font-size: 20px;
+    color: #fff;
+    background: #70AEBE;
+    transition: all .3s ease-in-out;
+}
+
+.btn2-outline:hover,
+.btn2-outline:focus,
+.btn2-outline:active,
+.btn2-outline.active {
+    border: solid 2px #fff;
+    color: #71AEC1;
+    background: #fff;
+}
+
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;

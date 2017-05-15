@@ -5,6 +5,6 @@ img: web.png
 alt: image-alt
 client: The Embassy of Israel in South Africa
 category: Web Development
-description: The website was commitioned by the embassy of Israel in South Africa for their <a href="http://startuptelavivsouthafrica.com/">Startup Tel Aviv South African</a> leg.
+description: The website was commitioned by the embassy of Israel in South Africa for their <a href="http://startuptelavivsouthafrica.com/" target="_blank">Startup Tel Aviv South African</a> leg.
 
 ---

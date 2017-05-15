@@ -3,7 +3,7 @@ layout: default
 modal-id: 4
 img: large.png
 alt: image-alt
-client: AlliedNutrition, Caraza Bespoke jewelry and Goldwagen
+client: Alliednutrition, Caraza Bespoke jewelry and Goldwagen
 category: Large format Design 
 description: Over the years I have also designed and printed allot of large format prints on a variety of materials with the large format Roland printers in the printshop. 
 

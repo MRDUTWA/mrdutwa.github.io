@@ -269,14 +269,14 @@ section.success {
     background: #fff;
 }
 
-<!-- button 2 -->
+<!--button2-->
 .btn2-outline {
     margin-top: 15px;
     border: solid 2px #fff;
     font-size: 20px;
     color: #fff;
     background: #70AEBE;
-    transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out
 }
 
 .btn2-outline:hover,

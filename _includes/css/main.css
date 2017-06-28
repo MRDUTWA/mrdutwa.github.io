@@ -84,8 +84,11 @@ header {
     color: #fff;
     background: url(../../img/header.png);
     background-repeat:no-repeat;
-    background-size:contain;
-    background-position:center;     
+-webkit-background-size:cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+background-size:cover;
+background-position:center;   
 }
 
 header .container {

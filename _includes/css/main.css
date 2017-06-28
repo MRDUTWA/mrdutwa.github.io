@@ -83,12 +83,9 @@ header {
     text-align: center;
     color: #fff;
     background: url(../../img/header.png);
-    background-repeat: no-repeat;        
-    position: relative;        
-    width: 90%;            
-    height: 752px;       
-    margin-left: auto;      
-    margin-right: auto;       
+    background-repeat:no-repeat;
+    background-size:contain;
+    background-position:center;     
 }
 
 header .container {
